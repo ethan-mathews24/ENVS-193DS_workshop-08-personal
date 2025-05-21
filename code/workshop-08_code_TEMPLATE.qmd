@@ -1,7 +1,7 @@
 ---
 title: "Workshop 8 TEMPLATE"
 subtitle: "insert your section time here"
-author: "insert your name here"
+author: "Ethan"
 date: "insert your name here"
 format:
   html:
